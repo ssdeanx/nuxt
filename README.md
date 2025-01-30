@@ -25,7 +25,7 @@ Before you begin, ensure you have [Node.js](https://nodejs.org/) installed on yo
 
 ```bash
 # Clone the repository
-git clone https://yourrepository.com/nuxt-app.git
+git clone https://github.com/ssdeanx/nuxt.git
 
 # Navigate into the project directory
 cd nuxt-app
